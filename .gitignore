@@ -4,3 +4,6 @@
 /Makefile
 /cmake_install.cmake
 /yolo_mark
+
+# Images
+/x64/Release/data/img/
