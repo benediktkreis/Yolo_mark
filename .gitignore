@@ -6,4 +6,6 @@
 /yolo_mark
 
 # Images
-/x64/Release/data/img/
+/x64/Release/data/img/*.txt
+/x64/Release/data/img/*.jpg
+/x64/Release/data/img/*.zip
